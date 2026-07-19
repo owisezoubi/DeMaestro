@@ -43,7 +43,9 @@ The full source code (backend + frontend) is kept in a separate repository so th
 
 ## Live Demo
 
-You can try DeMaestro directly in your browser:
+You can try DeMaestro directly in your browser:  
+email: "test1@gmail.com"  
+password: "test1111"  
 
 **Live URL:** https://de-maestro-code-53sp.vercel.app/
 
