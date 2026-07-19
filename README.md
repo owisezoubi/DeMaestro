@@ -59,5 +59,6 @@ You can try DeMaestro directly in your browser:
 
 ## Advisor
 
-**Dr. Natali Levi**
-**Senior Lecturer at Braude Academic College
+**Dr. Natali Levi**  
+Senior Lecturer at Braude Academic College  
+
