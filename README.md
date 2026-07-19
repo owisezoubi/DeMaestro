@@ -47,14 +47,6 @@ You can try DeMaestro directly in your browser:
 
 **Live URL:** https://de-maestro-code-53sp.vercel.app/
 
----
-
-## What is in This Repository
-
-- The Capstone B book (final report, PDF and source document)
-- UML diagrams used in the book (activity diagram, package diagram, agent pipelines, layered architecture)
-- Presentation slides
-- Reference materials
 
 ---
 
@@ -68,3 +60,4 @@ You can try DeMaestro directly in your browser:
 ## Advisor
 
 **Dr. Natali Levi**
+Senior Lecturer at Braude Academic College
